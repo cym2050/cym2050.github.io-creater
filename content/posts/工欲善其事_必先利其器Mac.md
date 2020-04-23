@@ -11,5 +11,5 @@ draft: true
 `https://segmentfault.com/a/1190000014992947`
 `https://www.zhihu.com/question/21418449`   
 插件：
-主题：fino，sunrise,duellj
+主题：fino，sunrise,duellj，jovial，Jonathan
 - 
