@@ -22,18 +22,4 @@ tianjaitainjiatianjia
 tianjiatianjiatainjia
 tianjiatianjia
 tainjiatianjiatianjia
-tianjiatianjiatianjia   
-tianjiatianjiatianjai
-tianjiatianjaitianjia
-tianjai
-tianjiatianjaitainjiatianjiatianjiatianjiatianjiatianjiatianji
-tianji
-tianjia
-tianjiatian
-tianjaiceshi 
-tianjia
-tianjiatianjiatianjia
-update update
-update update
-ceshiceshi测十四
-ceshiceshiceshi 
+ceshiceshiceshiceshiceshi
