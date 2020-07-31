@@ -9,13 +9,8 @@ draft: false
 ```
 vimtutor
 ```
-- macOS
+- macOS、Linux
 在终端输入：
-```
-vimtutor
-```
-- Linux
-在终端输入
 ```
 vimtutor
 ```

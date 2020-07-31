@@ -92,17 +92,17 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "reuixiy"
+    name = "CYM"
     # 邮箱
-    email = "reuixiy@gmail.com"
+    email = "cym2050@foxmail.com"
     # 座右铭或简介
     motto = "Viva La Vida"
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://io-oi.me/"
+    website = "https://cym2050.github.io/"
     # 推特
-    twitter = "reuixiy"
+    twitter = "CYM"
 
 # 相关文章
 [related]
@@ -710,7 +710,7 @@ uglyURLs = false
     publishedDateIcon = "calendar-alt"
 
     # 是否显示修改时间
-    displayModifiedDate = true
+    displayModifiedDate = false
     # 修改时间的图标
     modifiedDateIcon = "calendar-check"
 
@@ -1006,7 +1006,7 @@ uglyURLs = false
     # 文章更新徽章
 
     # 是否开启
-    enablePostUpdatedBadge = true
+    enablePostUpdatedBadge = false
 
     # 是否显示（全局设置）
     displayUpdatedBadge = true
