@@ -24,6 +24,9 @@ https://css-tricks.com/almanac/
 ### 四.常用属性
 text&font：text-decoration,text-tranform,line-height,font-sytle,font-weight,font-size,font-family,x`
 img：weight、height
+background: url() ;
+backgroundsize: cover
+
 
 ### 五.block、inline、inline-block
 
@@ -44,6 +47,9 @@ animation
 - [practice your CSS skill](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 - `clear: both` : 使自己不受float元素的影响，处于float元素流的后方
 - box的大小是由height、weight、padding、border、margin决定的，weight、height与font-size的分离
+- `<meta>` tags always go inside the `<head>` element, and are typically used to specify character set, page description, keywords, author of the document, and viewport settings. https://www.w3schools.com/tags/tag_meta.asp
+- ::after 浮在显示元素的下面  ::before 浮在显示元素的上面 content 属性为显示的内容
+- 
 
 ###### Website Made With Love
 
