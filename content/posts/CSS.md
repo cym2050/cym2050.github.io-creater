@@ -34,6 +34,12 @@ backgroundsize: cover
 ![image.png](https://upload-images.jianshu.io/upload_images/10432256-6ea3c223c53f84a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 七.flex-box
+像用格子纸写作文一样，一个个元素从左至右，从上至下的流
+```
+display: flex;
+flex-warp: warp;
+justify-content: center
+```
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://darekkay.com/dev/flexbox-cheatsheet.html
 ### 八.grid
