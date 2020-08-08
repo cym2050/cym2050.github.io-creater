@@ -75,7 +75,7 @@ uglyURLs = false
             autoHeadingID = true
             autoHeadingIDType = "github"
         [markup.goldmark.renderer]
-            hardWraps = false
+            hardWraps = true
             unsafe = true
             xHTML = false
     [markup.highlight]
@@ -819,7 +819,7 @@ uglyURLs = false
     #      (~/blog/static/images/meme.jpg)
 
     # 是否开启
-    enableImageHost = false
+    enableImageHost = true
 
     # 图片外链地址
     imageHostURL = "https://example.com/"
@@ -934,7 +934,7 @@ uglyURLs = false
     #      的优先级高于此处
 
     # 分段样式（全局设置）
-    paragraphStyle = "indent"
+    paragraphStyle = "margin"
     # 说明：段间距式（margin）或段首缩排（indent）
     #      文章的 Front Matter 中的 `indent`
     #      的优先级高于此处

@@ -1,5 +1,5 @@
 ---
-title: "ForEach"
+title: "Advanced Arrays"
 date: 2020-08-06T21:53:29+08:00
 draft: true
 ---
@@ -24,3 +24,5 @@ array.forEach((num) => {
 
 过滤符合函数条件的item，并返回
 ##### reduce
+
+
