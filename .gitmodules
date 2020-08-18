@@ -4,6 +4,3 @@
 [submodule "themes/meme"]
 	path = themes/meme
 	url = https://github.com/reuixiy/hugo-theme-meme.git
-[submodule "public"]
-	path = public
-	url = git@github.com:cym2050/cym2050.github.io.git
