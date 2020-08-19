@@ -96,7 +96,7 @@ uglyURLs = false
     # 邮箱
     email = "cym2050@foxmail.com"
     # 座右铭或简介
-    motto = "Viva La Vida"
+    motto = "Life is gift, We must celebrate it."
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
@@ -186,22 +186,22 @@ uglyURLs = false
     #     post = "home"
     [[menu.main]]
         url = "/posts/"
-        name = "文章"
+        name = "技术"
         weight = 2
         pre = "internal"
         post = "archive"
     [[menu.main]]
-        url = "/categories/"
-        name = "分类"
+        url = "/life/"
+        name = "生活"
         weight = 3
         pre = "internal"
         post = "th"
-    [[menu.main]]
-        url = "/tags/"
-        name = "标签"
-        weight = 4
-        pre = "internal"
-        post = "tags"
+    # [[menu.main]]
+    #    url = "/tags/"
+    #    name = "标签"
+    #    weight = 4
+    #    pre = "internal"
+    #    post = "tags"
     [[menu.main]]
         url = "/about/"
         name = "关于"
@@ -294,11 +294,23 @@ uglyURLs = false
     # 3. posts     文章摘要
     # 4. page      普通页面
 
-    homeLayout = "posts"
+    homeLayout = "poetry"
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = []
+    homePoetry = [
+        "# 未曾选择的路",
+        "黄色的树林里分出两条路，可惜我不能同时去涉足",
+        "我在那路口久久伫立，向着一条路极目望去",
+        "直到它消失在从林的深处，但我却选了另外一条路",
+        "它荒草萋萋，十分幽寂，显得更诱人、更美丽",
+        "虽然在这两条小路上，都很少留下旅人的足迹",
+        "虽然那天清晨落叶满地，两条路都未经脚印污染",
+        "啊，留下一条路等改日再见！但我知道路径延绵无尽头",
+        "恐怕我难以再回返，也许多少年后在某个地方",
+        "我将轻声叹息把往事回顾，一片树林里分出两条路",
+        "而我选了人迹更少的一条，因此走出了这迥异的旅途 "
+    ]
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 
@@ -332,7 +344,7 @@ uglyURLs = false
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
-    siteTwitter = "reuixiy"
+    siteTwitter = "CYM"
     # 说明：用于 Twitter Cards
 
 
@@ -582,7 +594,7 @@ uglyURLs = false
     # 说明：仅在生产环境（production）下渲染
 
     # 是否开启（全局设置）
-    enableComments = false
+    enableComments = true
     # 说明：文章的 Front Matter 中的 `comments`
     #      的优先级高于此处
 
@@ -1183,10 +1195,10 @@ uglyURLs = false
     iconAnimation = true
 
     # 是否显示 Hugo 和 MemE 的链接
-    displayPoweredBy = true
+    displayPoweredBy = false
 
     # 是否显示站点的版权信息
-    displaySiteCopyright = true
+    displaySiteCopyright = false
 
     # 自定义页脚（支持 Markdown）
     customFooter = ""
@@ -1209,7 +1221,7 @@ uglyURLs = false
     # 多语言
 
     # 是否开启多语言按钮
-    enableLangToggle = false
+    enableLangToggle = true
 
     # 是否在首页隐藏多语言按钮
     hideLangToggleInHome = false
