@@ -1,10 +1,8 @@
 ---
 title: "Currying and Compose"
 date: 2020-08-07T18:07:14+08:00
-draft: true
+draft: false
 ---
-##### Closures
-
 
 ##### Currying
 将参数转化为函数

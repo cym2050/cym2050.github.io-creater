@@ -27,15 +27,15 @@
     weight = 3
 
 [[socials]]
-    id = "twitter"
+    id = "zhihu"
     url = "https://www.zhihu.com/people/pi-nuo-cao-14-69"
-    icon = "twitter"
-    title = "Twitter"
+    icon = "zhihu"
+    title = "zhihu"
     weight = 4
 
 [[socials]]
     id = "QQ"
-    url = ""
+    url = "#"
     icon = "qq"
-    title = "QQ"
+    title = "1390062269"
     weight = 5

@@ -1,7 +1,7 @@
 ---
 title: "CSS"
 date: 2020-08-03T17:43:58+08:00
-draft: true
+draft: false
 ---
 
 ### 一.使用CSS的三种方式
@@ -31,7 +31,7 @@ backgroundsize: cover
 ### 五.block、inline、inline-block
 
 ### 六.box model
-![image.png](https://upload-images.jianshu.io/upload_images/10432256-6ea3c223c53f84a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](/images/box-model.png "盒模型")
 
 ### 七.flex-box
 像用格子纸写作文一样，一个个元素从左至右，从上至下的流

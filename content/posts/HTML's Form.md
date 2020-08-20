@@ -1,7 +1,7 @@
 ---
 title: "HTML's Form"
 date: 2020-08-02T23:55:03+08:00
-draft: true
+draft: false
 ---
 
 `<form method="GET">` <br>

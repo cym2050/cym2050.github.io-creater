@@ -54,7 +54,7 @@ console.log('3');
 
 #### JavaScript运行时环境
 
-![image-20200807231719301](..\..\static\images\image-20200807231719301.png)
+![image-20200807231719301](/images/image-20200807231719301.png)
 
 JavaScript是单线程的，或者说JavaScript运行在单线程中，但JavaScript是工作在浏览器中的，而浏览器不只是JavaScript，其有以下线程：
 - JavaScript引擎线程

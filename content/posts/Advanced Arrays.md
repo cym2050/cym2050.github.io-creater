@@ -1,7 +1,7 @@
 ---
 title: "Advanced Arrays"
 date: 2020-08-06T21:53:29+08:00
-draft: true
+draft: false
 ---
 
 ##### 1.forEach
@@ -17,12 +17,12 @@ array.forEach((num) => {
 ```
 
 ##### map
-必须用retur显式返回值，不然会返回undefined
+不修改原数组本省，必须用retur显式返回值，不然会返回undefined
+对每个数组元素执行一遍所给函数后返回新数组
 
 ##### filter
 必须用retur显式返回值，不然会返回undefined
+过滤符合函数条件的item，并返回一个新数组
 
-过滤符合函数条件的item，并返回
-##### reduce
 
 
