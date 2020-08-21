@@ -185,13 +185,13 @@ uglyURLs = false
     #     pre = "internal"
     #     post = "home"
     [[menu.main]]
-        url = "/posts/"
+        url = "/Tech/"
         name = "技术"
         weight = 2
         pre = "internal"
         post = "archive"
     [[menu.main]]
-        url = "/life/"
+        url = "/Life/"
         name = "生活"
         weight = 3
         pre = "internal"
