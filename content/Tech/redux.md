@@ -1,7 +1,7 @@
 ---
 title: "Redux"
 date: 2020-08-11T22:37:02+08:00
-draft: false
+draft: true
 ---
 
 理解 Redux

@@ -74,3 +74,12 @@ transcation() ：多个数据库操作同时成功，此次操作才成功，只
 输入框格式检查
 服务端邮箱检查
 错误弹出 邮箱错，密码错
+一刷新就要重新登录怎样解决
+
+heroku:一个可以部署服务端，数据库的服务商
+heroku create
+git push heroku master
+heroku open
+heroke log --tail 可以在命令行里调试
+
+CMD设置代理： set http_proxy=http://127.0.0.1:11081
