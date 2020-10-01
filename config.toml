@@ -196,12 +196,12 @@ uglyURLs = false
         weight = 3
         pre = "internal"
         post = "th"
-    # [[menu.main]]
-    #    url = "/tags/"
-    #    name = "标签"
-    #    weight = 4
-    #    pre = "internal"
-    #    post = "tags"
+     [[menu.main]]
+        url = "/weekly/"
+        name = "周刊"
+        weight = 4
+        pre = "internal"
+        post = "tags"
     [[menu.main]]
         url = "/about/"
         name = "关于"
